@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DnsOMaticScript/v16/.suo
+/DnsOMaticScript/bin/Debug
+/DnsOMaticScript/obj/Debug
+/packages/Newtonsoft.Json.13.0.1
+/DnsOMaticScript/DnsOMaticScript.csproj.user
